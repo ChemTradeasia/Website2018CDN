@@ -280,7 +280,7 @@ main.ctg .link a.ctg-active{
     text-transform: uppercase;
 } */
 
-.jmb-top-hm{
+.section-top .jmb-top-hm{
     background: url(../img/bn-home-one.jpg);
     background-size: cover;
     height: 800px;
