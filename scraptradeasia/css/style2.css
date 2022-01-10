@@ -265,7 +265,7 @@ p.kd-ctg{
 main.ctg .link a.ctg-active{
     color: #77b94a;
 }
-.section-banner{
+/* .section-banner{
     background: url(../img/bn-home.jpg)  no-repeat right center;
     height: 276px;
 }
@@ -278,7 +278,7 @@ main.ctg .link a.ctg-active{
     font-size: 52px;
     color: #77b94a;
     text-transform: uppercase;
-}
+} */
 .section-home-one h1.tl-tradeasia-one{
    margin-bottom: 30px;
 }
@@ -350,6 +350,14 @@ main.ctg .link a.ctg-active{
 .fm-home-two.ket-fm-home.n-m{
     padding-top: 5px;
     padding-bottom: 5px;
+}
+
+.card-img-overlay{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background: rgba(2, 2, 2, 0.5);
 }
 /* end home page */
 
