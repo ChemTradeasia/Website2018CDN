@@ -280,8 +280,17 @@ main.ctg .link a.ctg-active{
 .section-top .jmb-top-hm{
     background: url(../img/bn-home-one.jpg);
     background-size: cover;
-    height: 800px;
+    height: 420px;
     text-align: center;
+}
+.section-top h1.display-4, p.lead{
+    color: #fff;
+}
+.section-top img.img-top-home{
+    width: 100%;
+}
+.section-top h1.display-4{
+    font-size: 28px;
 }
 .section-home-one h1.tl-tradeasia-one{
    margin-bottom: 30px;
@@ -323,6 +332,9 @@ main.ctg .link a.ctg-active{
     text-transform: capitalize;
     margin-top: 40px;
     margin-bottom: 30px;
+}
+img.img-four-hm{
+    width: 100%;
 }
 .section-home-five .sb-news{
     text-align: center;
