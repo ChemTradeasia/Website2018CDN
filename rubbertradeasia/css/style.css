@@ -93,12 +93,9 @@ footer .ft-bottom .ft-bt-tl{
     font-size: 13px;
 }
 footer .ft-bottom{
-    border-top: 1px solid rgba(255, 255, 255, 0.2);
+    border-top: 1px solid rgba(0,0,0,0.2);
 }
 footer a{
-    color: #fff;
-}
-footer span{
     color: #fff;
 }
 
